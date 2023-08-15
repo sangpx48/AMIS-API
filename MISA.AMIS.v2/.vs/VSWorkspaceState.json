@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MISA.AMIS.Api",
+    "\\MISA.AMIS.Api\\Controllers",
+    "\\MISA.AMIS.Core",
+    "\\MISA.AMIS.Core\\Services"
+  ],
+  "SelectedNode": "\\MISA.AMIS.Core\\Services\\BaseService.cs",
+  "PreviewInSolutionExplorer": false
+}

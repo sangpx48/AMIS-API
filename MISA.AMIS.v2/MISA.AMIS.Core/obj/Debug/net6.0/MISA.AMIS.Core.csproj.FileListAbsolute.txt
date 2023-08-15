@@ -1,0 +1,42 @@
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.deps.json
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.AssemblyReference.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.AssemblyInfoInputs.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.AssemblyInfo.cs
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.CoreCompileInputs.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\refint\MISA.AMIS.Core.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\ref\MISA.AMIS.Core.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.Resources.Resource.resources
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.GenerateResource.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.deps.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.AssemblyReference.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.Resources.Resource.resources
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.GenerateResource.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.AssemblyInfoInputs.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.AssemblyInfo.cs
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.CoreCompileInputs.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\refint\MISA.AMIS.Core.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\ref\MISA.AMIS.Core.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.AssemblyReference.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.GenerateResource.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.AssemblyInfoInputs.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.AssemblyInfo.cs
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.csproj.CoreCompileInputs.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\refint\MISA.AMIS.Core.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.deps.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\bin\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\ref\MISA.AMIS.Core.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Core\obj\Debug\net6.0\MISA.AMIS.Core.Resources.ResourceObject.resources

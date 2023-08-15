@@ -1,0 +1,109 @@
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\appsettings.json
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.exe
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.deps.json
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.runtimeconfig.json
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.pdb
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Dapper.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MySqlConnector.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Core.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Infrastructure.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Infrastructure.pdb
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.AssemblyReference.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.AssemblyInfoInputs.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.AssemblyInfo.cs
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.CoreCompileInputs.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\scopedcss\bundle\MISA.AMIS.Api.styles.css
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.CopyComplete
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\refint\MISA.AMIS.Api.dll
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.pdb
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.genruntimeconfig.cache
+D:\Btap Misa\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\ref\MISA.AMIS.Api.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\appsettings.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.exe
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.deps.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.runtimeconfig.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.pdb
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Dapper.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MySqlConnector.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Core.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Infrastructure.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Infrastructure.pdb
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.AssemblyReference.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.AssemblyInfoInputs.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.AssemblyInfo.cs
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.CoreCompileInputs.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.MISA.AMIS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.MISA.AMIS.Api.props
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MISA.AMIS.Api.props
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MISA.AMIS.Api.props
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\scopedcss\bundle\MISA.AMIS.Api.styles.css
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.CopyComplete
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\refint\MISA.AMIS.Api.dll
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.pdb
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.genruntimeconfig.cache
+D:\Btap á\Project Final\C#\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\ref\MISA.AMIS.Api.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.AssemblyReference.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.AssemblyInfoInputs.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.AssemblyInfo.cs
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.CoreCompileInputs.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\refint\MISA.AMIS.Api.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.pdb
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\appsettings.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.exe
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.deps.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.runtimeconfig.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Api.pdb
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Dapper.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MySqlConnector.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Core.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Infrastructure.dll
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Core.pdb
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\bin\Debug\net6.0\MISA.AMIS.Infrastructure.pdb
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.MISA.AMIS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.MISA.AMIS.Api.props
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MISA.AMIS.Api.props
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MISA.AMIS.Api.props
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\scopedcss\bundle\MISA.AMIS.Api.styles.css
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.csproj.CopyComplete
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\MISA.AMIS.Api.genruntimeconfig.cache
+D:\BTAP\Project Final\API\MISA.AMIS.v2\MISA.AMIS.Api\obj\Debug\net6.0\ref\MISA.AMIS.Api.dll
